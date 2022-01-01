@@ -93,3 +93,4 @@ if ans:
     print("Knowledge Base entails query")
 else:
     print("Knowledge Base does not entail query")
+    
