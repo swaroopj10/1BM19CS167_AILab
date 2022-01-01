@@ -365,3 +365,5 @@ if __name__ == "__main__":
     TELL(['or', 'c', 'd'])
     TELL('d')
     ASK('c')
+
+    
